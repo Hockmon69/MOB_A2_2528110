@@ -113,11 +113,9 @@ The resulting `MOB_A2_2528110.apk` can be downloaded directly from the EAS dashb
 - **Offline / Airplane Mode Test:** Confirmed 100% operational in Airplane Mode (Wi-Fi OFF, Cellular OFF).
 - **Final Commit Hash:** `e79d9830d16d45f1f1a7437ab108f9342b1649fe`
 - **GitHub Repository URL:** https://github.com/Hockmon69/MOB_A2_2528110
-- **GitHub Release URL:** https://github.com/Hockmon69/MOB_A2_2528110/releases/tag/v1.0.0
-- **APK Download URL:** https://github.com/Hockmon69/MOB_A2_2528110/releases/download/v1.0.0/MOB_A2_2528110.apk
-
----
-
+- **GitHub Release URL:** https://github.com/Hockmon69/MOB_A2_2528110/releases/tag/FCportfolio
+- **APK Download URL:** https://github.com/Hockmon69/MOB_A2_2528110/releases/download/FCportfolio/Fajwan.Chanjwok.portfolio.apk
+  
 ## 6. Demonstration Video Checklist (2-Minute Limit)
 The demonstration video `MOB_A2_2528110_DEMO.mp4` attached to Release `v1.0.0` shows in one continuous unedited sequence:
 1. Handwritten card showing Name, Registration Number (`25/28110`), App Name (`FCPortfolio`), and Code (`MOB-A2-8110`).
